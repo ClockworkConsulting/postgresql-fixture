@@ -8,7 +8,7 @@ on the PostgreSQL server you're targeting.
 
 # Usage (JDBC)
 
-Example of usage:
+Example:
 
 ```scala
     // Create the temporary database
@@ -30,6 +30,8 @@ Example of usage:
 ```
 
 # Usage (ScalikeJDBC)
+
+Example:
 
 ```scala
     // Create the temporary database
