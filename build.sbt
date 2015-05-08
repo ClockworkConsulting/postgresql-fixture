@@ -4,7 +4,7 @@
 
 organization in ThisBuild := "dk.cwconsult"
 
-version in ThisBuild := "1.0.0-SNAPSHOT"
+version in ThisBuild := "1.0.0"
 
 //
 // Compiler settings
