@@ -1,3 +1,3 @@
 libraryDependencies ++= Seq(
-  Dependencies.scalikeJDBC
+  Dependencies.scalikeJDBCCore
 )
