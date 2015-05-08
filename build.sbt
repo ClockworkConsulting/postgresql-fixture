@@ -16,6 +16,12 @@ scalacOptions in ThisBuild := Seq(
   "-Xlint", "-deprecation", "-unchecked", "-feature", "-encoding", "utf8"
 )
 
+//
+// sbt-pgp settings
+//
+
+useGpg := true
+
 // ==============================================================
 // Projects
 // ==============================================================
