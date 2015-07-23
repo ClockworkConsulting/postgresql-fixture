@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ClockworkConsulting/postgresql-fixture.svg?branch=master)](https://travis-ci.org/ClockworkConsulting/postgresql-fixture)
+
 # Intro
 
 `postgresql-fixture` provides a simple way to create temporary PostgreSQL
