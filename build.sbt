@@ -10,7 +10,7 @@ version in ThisBuild := "1.0.1-SNAPSHOT"
 // Compiler settings
 //
 
-scalaVersion in ThisBuild := "2.11.6"
+scalaVersion in ThisBuild := "2.11.7"
 
 scalacOptions in ThisBuild := Seq(
   "-Xlint", "-deprecation", "-unchecked", "-feature", "-encoding", "utf8"
